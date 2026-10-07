@@ -3,7 +3,7 @@ booktitle: Proceedings of the Fourth UK AI Conference 2026
 shortname: UK AI Conf
 year: '2026'
 volume: '348'
-start: &1 2026-09-29
+start: 2026-09-29
 end: 2026-09-30
 published: 2026-09-30
 conference_number: '4'
@@ -88,7 +88,7 @@ conference:
   url: https://uk-ai.org/ukai2026/
   location: The Hilton Nottingham, Nottingham, United Kingdom
   dates:
-  - *1
+  - 2026-09-29
   - 2026-09-30
 analytics:
   google:
